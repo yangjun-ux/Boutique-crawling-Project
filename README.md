@@ -1,11 +1,11 @@
 # Boutique crawling Project
 ## - 명품 사이트 웹 크롤링 프로젝트
 
-### - 총 6개의 명품 브랜드
+### - 총 6개의 명품 브랜드(현재는 5개만 구현)
 
 - GUCCI, LOUIS VUITTON, BURBERRY, JIMMY CHOO, DIOR, HERMES
 
-- 3개의 품목(가방(bags), 옷(clothes), 신발(shoes))
+- 3개의 품목(가방(bags), 옷(clothes), 신발(shoes))  - 추후 전체 지원 예정
 
 ### 설치 방법
 `pip install Boutique_crawling`
